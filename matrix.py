@@ -6,6 +6,7 @@ numbers = np.arange(1, 101)
 # Reshape the array into a 10x10 matrix
 matrix = numbers.reshape((10, 10))
 print("no")
+print("no2")
 
 # Print the matrix
 for row in matrix:
