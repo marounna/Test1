@@ -15,7 +15,7 @@ public class ParkReservationSystem extends Application {
     public void start(Stage primaryStage) {
         // Root layout
         BorderPane root = new BorderPane();
-        
+        //
         // Left VBox
         VBox leftBox = new VBox(10);
         leftBox.setPadding(new Insets(15));
